@@ -1,0 +1,14 @@
+{
+  "device": "mps",
+  "vocabulaire": 92,
+  "exactitude_validation": 0.4918032786885246,
+  "perte_validation": 1.52474464744818,
+  "positions_evaluees": 61.0,
+  "ecart_padding": 0.0,
+  "historique_final": {
+    "epoch": 30.0,
+    "train_loss": 0.27111416332139954,
+    "val_loss": 1.8994784628758665,
+    "val_accuracy": 0.5737704918032787
+  }
+}

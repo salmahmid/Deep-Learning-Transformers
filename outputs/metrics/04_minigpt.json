@@ -1,0 +1,17 @@
+{
+  "device": "mps",
+  "vocabulaire": 70,
+  "caracteres": 13400,
+  "perte_finale": {
+    "epoch": 60.0,
+    "train_loss": 0.18453432340174913,
+    "val_loss": 5.175002574920654
+  },
+  "meilleure_validation": 2.028083086013794,
+  "generations": {
+    "0.5": "Le transformeur lit une séquence et prédit le coucué décite. Le de tour de la couche la déciple de l'avecter de de de la la sonne d'exerre dour de la donne le matin, pas le carache d'exe résuite la de connésit de le cormencure le suite la d'anson",
+    "1.0": "Le transformeur lit une séquence et prédit le à déjéqu'heure quédé nante. La ménédient la néparage. Le de sérofdemedi sées poin quis. La vansurenal. Da appuit minte, pau la caragendri. On mal. La soune tinge poyensuie, on nue posituat. Ilutencut ",
+    "1.5": "Le transformeur lit une séquence et prédit le à. On à le tirtexerd. Un jeune a cydïen. On iténe heure, de soublé médi séranne hore, . La vanlietuan. écorteule heure, quance lantehmali. On mahdad l'etremens hPour lempaie pôburqui. Lhs-orpuite ente"
+  },
+  "ecart_causal": 0.0
+}

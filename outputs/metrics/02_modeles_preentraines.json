@@ -1,0 +1,67 @@
+{
+  "gpt2": {
+    "ok": true,
+    "forme_entree": [
+      1,
+      6
+    ],
+    "texte": "Artificial intelligence can help people understand and understand a vast range of things, from our everyday lives to the everyday activities of others, and from our work. For this reason, we think it's important to understand what is and isn't possible."
+  },
+  "bert": {
+    "ok": true,
+    "paris": [
+      {
+        "probabilite": 0.36325976252555847,
+        "token": "capitale",
+        "phrase": "Paris est la capitale de la France."
+      },
+      {
+        "probabilite": 0.21091137826442719,
+        "token": "ville",
+        "phrase": "Paris est la ville de la France."
+      },
+      {
+        "probabilite": 0.03160819038748741,
+        "token": "Cité",
+        "phrase": "Paris est la Cité de la France."
+      },
+      {
+        "probabilite": 0.016664067283272743,
+        "token": "préfecture",
+        "phrase": "Paris est la préfecture de la France."
+      },
+      {
+        "probabilite": 0.016394516453146935,
+        "token": "banlieue",
+        "phrase": "Paris est la banlieue de la France."
+      }
+    ],
+    "rabat": [
+      {
+        "probabilite": 0.4290027320384979,
+        "token": "capitale",
+        "phrase": "Rabat est la capitale Maroc."
+      },
+      {
+        "probabilite": 0.20656536519527435,
+        "token": "du",
+        "phrase": "Rabat est la du Maroc."
+      },
+      {
+        "probabilite": 0.06233793869614601,
+        "token": "de",
+        "phrase": "Rabat est la de Maroc."
+      },
+      {
+        "probabilite": 0.034586310386657715,
+        "token": "ville",
+        "phrase": "Rabat est la ville Maroc."
+      },
+      {
+        "probabilite": 0.016728755086660385,
+        "token": "Rabat",
+        "phrase": "Rabat est la Rabat Maroc."
+      }
+    ]
+  }
+}

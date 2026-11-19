@@ -1,0 +1,45 @@
+# Environnement et caches Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.jupyter/
+
+# Secrets
+.env
+.env.*
+*.pem
+secrets.json
+credentials.json
+
+# Jeu de données UCI et fichiers extraits
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+*.zip
+household_power_consumption.txt
+
+# Modèles entraînés, checkpoints et caches Hugging Face
+outputs/checkpoints/*
+!outputs/checkpoints/.gitkeep
+outputs/huggingface/
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+*.onnx
+.cache/
+huggingface/
+
+# Fichiers locaux volumineux ou personnels
+*.heic
+.DS_Store
+Thumbs.db
